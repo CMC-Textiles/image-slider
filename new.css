@@ -47,7 +47,7 @@ body {
 
 .image-thumbnail-carousel {
     padding: 1rem;
-    width: clamp(400px, 90vw, 1000px);
+    width: clamp(1000px, 100vw, 1000px);
     display: flex;
     align-items: center;
     justify-content: space-between;
